@@ -9,8 +9,8 @@ import java.util.Scanner;
  *
  * @author colli
  */
+//think of this as a test creature to fight.
 public class enemy {
-    
     //TRACKS  ENEMY INTITIATIVE
     public static int enemyRollInitiative() {
         int initiative = enemyRollInitiative();
