@@ -28,7 +28,7 @@ public class Draw
         frame.setVisible(true);
     }
         
-
+/*
     //Create the menu bar.
     menuBar = new JMenuBar();
 
@@ -58,6 +58,6 @@ public class Draw
 
     // add menu bar to frame
     frame.setJMenuBar(theJMenuBar);
-
+*/
         
 }
