@@ -32,7 +32,7 @@ class GameObject {
 }
 
 public class factory {
-    public static void main(String[] args) {
+    /*
         // Create a deque (ArrayDeque in this example)
         Deque<GameObject> deque = new ArrayDeque<>();
 
@@ -49,12 +49,9 @@ public class factory {
         // Print the contents of the deque
         for (GameObject gameObject : deque) {
             System.out.println(gameObject);
-        }
+            */
+        
     }
-}
-//In this example, we define a GameObject class to represent objects with health, damage, and cost attributes. We then create instances of this class (obj1 and obj2) and insert them into the Deque. Finally, we print the contents of the Deque to display the attributes of the objects stored in it.
-
-
 
 
 
