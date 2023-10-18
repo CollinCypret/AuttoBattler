@@ -1,0 +1,6 @@
+GameObject.class
+factory.class
+com\mycompany\autobattler\AutoBattler.class
+com\mycompany\autobattler\player.class
+com\mycompany\autobattler\Draw.class
+com\mycompany\autobattler\enemy.class
